@@ -94,7 +94,7 @@ This project simulates a **closed-loop refrigeration system** using a **PID cont
 
 **[Akshat Gupta]**  
 Beginner control systems enthusiast working on real-world thermal models using Simulink.
-
+🔗 [LinkedIn](www.linkedin.com/in/akshat-gupta-9b649a378)
 ---
 
 
